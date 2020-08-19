@@ -104,7 +104,7 @@ const App = () => {
       clearInterval(interval);
     }
     return () => clearInterval(interval);
-  }, [activeCountdown, timerLengthMins, timerLengthSecs]);
+  }, [activeCountdown, timerLengthMins, timerLengthSecs, audio, breakLength, sessionLength, sessionOrBreak]);
         
   return (
   //this ternary changes the background colour by selecting the different container styles based on state  
