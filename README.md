@@ -1,4 +1,4 @@
-# Pomodoro Clock 
+# [Pomodoro Clock](https://andy-mc-donald.github.io/pomodoro-clock/)
 
 ![Pomodoro clock screenshot](pomodoro-clock.png)
 
